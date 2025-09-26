@@ -11,9 +11,9 @@
 ## Team Members:
 - Dr. Sabrina Perry, **KeyCracker**  
   Austin Peay State University
-- Dr. Izzat Alsmadi, **Code Enforcer**  
+- Dr. Izzat Alsmadi, **Byte Master**  
   Texas A&M, San Antonio
-- Dr. John Holmen, **Byte Master**  
+- Dr. John Holmen, **Code Enforcer**    
   Oak Ridge National Laboratory
 
 ## Target Course Goals:
