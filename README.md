@@ -1,7 +1,7 @@
 <img src="./CryptoSquad.webp" alt="Project Logo" width="300" height="200">
 
 
-# FacultyHackHPC
+# FacultyHack25
 
 ## Target Course Name
 **CSCI1010 - Introduction to Programming I**
