@@ -9,7 +9,7 @@
 ## Team Name: Crypto Squad
 
 ## Team Members:
-- Sabrina Perry, **KeyCracker**  
+- Dr. Sabrina Perry, **KeyCracker**  
   Austin Peay State University
 - Dr. Izzat Alsmadi, **Code Enforcer**  
   Texas A&M, San Antonio
